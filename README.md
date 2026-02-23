@@ -13,4 +13,4 @@ Patterns de messaging en C# avec MassTransit et RabbitMQ : publish/subscribe ave
 
 ## Stack
 
-C# / .NET Framework / MassTransit / RabbitMQ
+[![Stack](https://skillicons.dev/icons?i=dotnet,rabbitmq,cs&theme=dark)](https://skillicons.dev)
